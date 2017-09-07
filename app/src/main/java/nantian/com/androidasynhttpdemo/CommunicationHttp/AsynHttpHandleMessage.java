@@ -7,7 +7,7 @@ import com.loopj.android.http.ResponseHandlerInterface;
 /**
  * Created by xiaochunyuan on 17/9/6.
  *
- * Http
+ * Http 处理类/get/post/download/resquestJson
  * */
 
 public class AsynHttpHandleMessage {
